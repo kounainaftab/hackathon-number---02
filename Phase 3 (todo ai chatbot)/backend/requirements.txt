@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pyjwt[cryptography]
+asyncpg
+pydantic-settings
+python-dotenv
+passlib[bcrypt]
+python-multipart
+cohere
